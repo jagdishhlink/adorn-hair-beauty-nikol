@@ -13,42 +13,42 @@ export const businessData = {
   reviewsCount: "1518",
   openingHours: "Show open hours for the week",
   logo: "/images/logo.png",
-  images: ["/images/gmap_1780036546839_0.jpg", "/images/gmap_1780036547199_1.jpg", "/images/gmap_1780036547455_2.jpg", "/images/gmap_1780036547734_3.jpg", "/images/gmap_1780036547997_4.jpg", "/images/gmap_1780036548053_5.jpg", "/images/gmap_1780036548371_6.jpg", "/images/gmap_1780036548388_7.jpg", "/images/gmap_1780036548722_8.jpg", "/images/gmap_1780036548743_9.jpg"],
+  images: ["/images/gmap_1780037307917_0.jpg", "/images/gmap_1780037307950_1.jpg", "/images/gmap_1780037307969_2.jpg", "/images/gmap_1780037307989_3.jpg", "/images/gmap_1780037308017_4.jpg", "/images/gmap_1780037308056_5.jpg", "/images/gmap_1780037308075_6.jpg", "/images/gmap_1780037308093_7.jpg", "/images/gmap_1780037308120_8.jpg", "/images/gmap_1780037308141_9.jpg"],
   description: "",
   socials: {},
 };
 
 export const aiContent = {
-  tagline: "Beauty elevated in Nikol",
-  heroDescription: "Experience the art of beauty at Adorn Hair & Beauty Nikol, where every visit is a journey of self-discovery. Our expert stylists and therapists are dedicated to providing you with an unparalleled experience. Located in the heart of Shantiniketan-2 Hindva, we invite you to indulge in our world of beauty and wellness.",
-  aboutTitle: "The Story of Adorn",
-  aboutText: "At Adorn Hair & Beauty Nikol, we're passionate about helping you unlock your true potential. Our salon, nestled in the vibrant Shantiniketan-2 Hindva area, is a haven for those seeking to escape the ordinary and experience the extraordinary. Our team of skilled professionals are committed to delivering exceptional service, tailored to your unique needs and preferences. With a focus on innovation and creativity, we strive to make every visit a memorable one.",
+  tagline: "Beauty Redefined in Nikol",
+  heroDescription: "Experience the finest hair and beauty services at Adorn Hair & Beauty Nikol, located in the heart of Ahmedabad. Our skilled professionals cater to your every need, providing personalized attention and care. From haircuts to beauty treatments, we have it all.",
+  aboutTitle: "Our Story: Where Beauty Meets Passion",
+  aboutText: "Nestled in the bustling area of Shantiniketan-2 Hindva, our salon is a haven for those seeking exceptional beauty treatments. Our team of experts is dedicated to providing top-notch services, ensuring that every client leaves feeling pampered and satisfied. We take pride in our work, using only the finest products and techniques to deliver outstanding results.",
   services: [
-    { icon: "💇‍♀️", title: "Hair Spa", description: "Our luxurious hair spa treatments are designed to nourish and rejuvenate your locks, leaving you with a radiant glow" },
-    { icon: "💅", title: "Nail Art", description: "From classic to trendy, our expert nail technicians will help you achieve the perfect look to match your unique style" },
-    { icon: "🌸", title: "Mehendi", description: "Experience the traditional art of Mehendi with our skilled artists, perfect for special occasions or everyday elegance" },
-    { icon: "💆‍♀️", title: "Facial Treatments", description: "Our customized facial treatments are designed to address your specific skin concerns, leaving you with a refreshed and revitalized complexion" },
-    { icon: "🌹", title: "Bridal Makeup", description: "Our expert makeup artists will help you achieve the perfect look for your special day, with a focus on enhancing your natural beauty" },
-    { icon: "💈", title: "Hair Coloring", description: "From subtle to bold, our hair coloring services are tailored to your unique preferences, ensuring a look that's truly yours" }
+    { icon: "💇", title: "Mehendi Application", description: "Our skilled artists create intricate designs for special occasions" },
+    { icon: "💅", title: "Hair Color and Styling", description: "From subtle highlights to vibrant colors, our experts will transform your look" },
+    { icon: "💆", title: "Facial and Skincare", description: "Rejuvenate your skin with our range of facials and treatments, tailored to your skin type" },
+    { icon: "👠", title: "Bridal Makeup and Hair", description: "Our team will help you look stunning on your big day, with customized packages to suit your needs" },
+    { icon: "💈", title: "Haircut and Grooming", description: "From trims to complete makeovers, our experts will help you achieve the perfect look" },
+    { icon: "👗", title: "Beauty Consultations", description: "Get personalized advice on skincare, haircare, and makeup from our experienced professionals" }
   ],
   whyChooseUs: [
-    { icon: "💯", title: "Personalized Service", description: "At Adorn Hair & Beauty Nikol, we take the time to understand your unique needs and preferences, delivering a truly personalized experience" },
-    { icon: "🌿", title: "Natural Ingredients", description: "We're committed to using only the finest, natural ingredients in our treatments, ensuring a healthier and more sustainable approach to beauty" },
-    { icon: "👥", title: "Experienced Team", description: "Our team of skilled professionals are dedicated to providing exceptional service, with a focus on building long-term relationships with our clients" },
-    { icon: "💼", title: "State-of-the-Art Facilities", description: "Our salon is equipped with the latest technology and amenities, ensuring a comfortable and relaxing experience for all our clients" }
+    { icon: "🌟", title: "Experienced Professionals", description: "Our team has years of experience in the beauty industry, ensuring that you receive the best possible service" },
+    { icon: "🏠", title: "Convenient Location", description: "Located in the heart of Nikol, our salon is easily accessible and convenient for clients from all over Ahmedabad" },
+    { icon: "💯", title: "High-Quality Products", description: "We use only the finest products and equipment to ensure that our clients receive the best possible results" },
+    { icon: "📝", title: "Personalized Service", description: "Our team takes the time to understand your needs and provides personalized attention to ensure that you leave feeling satisfied" }
   ],
   testimonials: [
-    { name: "Maanvi Jain", role: "Regular Client", text: "I've been visiting Adorn Hair & Beauty Nikol for months now, and I'm always impressed by the exceptional service and attention to detail. The hair spa treatment is my favorite!", rating: 5 },
-    { name: "Mihika Mehta", role: "Bride-to-Be", text: "The bridal makeup services at Adorn Hair & Beauty Nikol are truly exceptional. The team is professional, talented, and dedicated to making you look and feel your best on your special day.", rating: 5 },
-    { name: "Manasi Patel", role: "Mother of the Bride", text: "I recently visited Adorn Hair & Beauty Nikol with my daughter for her bridal makeup trial, and we were both blown away by the expertise and creativity of the team. The Mehendi service is also a must-try!", rating: 5 }
+    { name: "Hemali Gandhi", role: "Bride", text: "I was thrilled with the bridal makeup and hair services provided by Adorn Hair & Beauty Nikol. The team was professional and courteous, and I received countless compliments on my big day.", rating: 5 },
+    { name: "Harshita Mehta", role: "Regular Client", text: "I've been visiting Adorn Hair & Beauty Nikol for months now, and I'm always impressed with the quality of service. The team is friendly and knowledgeable, and they always make me feel welcome.", rating: 5 },
+    { name: "Hiren Shah", role: "Groom", text: "I opted for the haircut and grooming services at Adorn Hair & Beauty Nikol, and I was blown away by the results. The team is skilled and attentive, and I would highly recommend them to anyone looking for a great haircut.", rating: 5 }
   ],
-  pricing: { description: "Affordable luxury for every budget", packages: [{ name: "Essential", price: "₹469", period: "per session", description: "Our basic package includes a consultation, hair cut, and styling", features: ["Consultation", "Hair Cut", "Styling"], popular: false, cta: "Book Now" },
-    { name: "Deluxe", price: "₹949", period: "per session", description: "Our deluxe package includes a consultation, hair cut, coloring, and styling", features: ["Consultation", "Hair Cut", "Coloring", "Styling"], popular: true, cta: "Book Now" },
-    { name: "Premium", price: "₹1349", period: "per session", description: "Our premium package includes a consultation, hair cut, coloring, styling, and a complimentary facial treatment", features: ["Consultation", "Hair Cut", "Coloring", "Styling", "Facial Treatment"], popular: false, cta: "Book Now" }] },
-  ctaTitle: "Experience the Art of Beauty",
-  ctaDescription: "Book your appointment today and discover a world of beauty and wellness at Adorn Hair & Beauty Nikol",
+  pricing: { description: "Our pricing packages are designed to fit your needs and budget", packages: [{ name: "Basic Beauty Package", price: "₹555", period: "per session", description: "Includes a 30-minute facial and a basic haircut", features: ["Facial", "Haircut"], popular: false, cta: "Book Now" },
+    { name: "Deluxe Hair and Beauty Package", price: "₹1111", period: "per session", description: "Includes a 60-minute facial, a haircut, and a makeup session", features: ["Facial", "Haircut", "Makeup"], popular: true, cta: "Book Now" },
+    { name: "Premium Bridal Package", price: "₹2222", period: "per session", description: "Includes a comprehensive bridal makeup and hair package, complete with trials and consultations", features: ["Bridal Makeup", "Bridal Hair", "Trials", "Consultations"], popular: false, cta: "Book Now" }] },
+  ctaTitle: "Transform Your Look Today",
+  ctaDescription: "Book an appointment with our expert team and experience the best in hair and beauty services. We can't wait to welcome you to Adorn Hair & Beauty Nikol!",
   ctaButtonText: "Book Your Appointment",
-  metaDescription: "Beauty salon in Nikol, Ahmedabad",
+  metaDescription: "Adorn Hair & Beauty Nikol: Expert hair and beauty services in Ahmedabad",
 };
 
 export const siteConfig = {
